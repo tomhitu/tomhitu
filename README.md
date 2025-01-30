@@ -43,12 +43,9 @@ Here are some ideas to get you started:
         <div class="markdown-heading" dir="auto">
             <h2 class="heading-element" dir="auto">GitHub Stats 📊</h2>
         </div>
-        <p align="center" dir="auto">
-            <a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api?username=tomhitu&show_icons=true&theme=dark&hide_rank=true">
-                <img src="https://github-readme-stats.vercel.app/api?username=tomhitu&show_icons=true&theme=dark&hide_rank=true" style="max-width: 100%;">
-            </a> 
+        <p align="left" dir="auto">
             <a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api/top-langs/?username=tomhitu&layout=compact&theme=dark">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomhitu&layout=compact&theme=dark" style="max-width: 100%;">
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomhitu&layout=compact&theme=transparent" style="max-width: 100%;">
             </a>
         </p>
     </div>
