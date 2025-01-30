@@ -5,12 +5,36 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning AI
+- 💬 Ask me about Photograph, and travel to Europe :)
+- ⚡ INTJ 
 -->
+
+<div>
+  <div>
+        <div class="markdown-heading" dir="auto">
+            <h2 class="heading-element" dir="auto">📫 Contact me via:</h2>
+        </div>
+        <div id="contact-block" style="font-size: 18px;">
+            <div id="badges" align="left">
+                <a href="https://www.linkedin.com/in/yuqin-xia-65a945251/">
+                    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+                </a>
+                <a href="https://www.instagram.com/tomhitu/#">
+                    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+                </a>
+            </div> 
+        </div>
+        <div class="markdown-heading" dir="auto">
+            <h2 class="heading-element" dir="auto">GitHub Stats 📊</h2>
+        </div>
+        <p align="center" dir="auto">
+            <a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api?username=tomhitu&show_icons=true&theme=dark&hide_rank=true">
+                <img src="https://github-readme-stats.vercel.app/api?username=tomhitu&show_icons=true&theme=dark&hide_rank=true" style="max-width: 100%;">
+            </a> 
+            <a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api/top-langs/?username=tomhitu&layout=compact&theme=dark">
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomhitu&layout=compact&theme=dark" style="max-width: 100%;">
+            </a>
+        </p>
+    </div>
+</div>
