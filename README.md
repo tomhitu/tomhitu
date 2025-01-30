@@ -12,26 +12,27 @@ Here are some ideas to get you started:
 
 <div>
   <div>
-    
-    <h1 align="center">
-        <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=blue&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I+am+tomhitu+%F0%9F%98%8A" alt="Typing SVG" /></a>
-    </h1>
-    <div id="aboutme" style="display: flex; align-items: flex-start; gap: 15px;">
-        <img alt="GIF" align="right" src="https://media.giphy.com/media/WrNWPknO6rajK4Yx7n/giphy.gif" width="250px" height="250px" />
-        <div style="flex: 1;">
-            <h3 style="font-size: 28px; font-weight: bold;">About Lynn:</h3>
-            <ul style="list-style-type: none; padding-left: 0;">
-                <li> 🌱 I’m currently learning CNN, RL, LSTM and so on </li>
-                <li> 💬 Ask me about Photograph, and travel to Europe :) </li>
-                <li> ⚡ INTJ </li>
-            </ul>
-        </div>
-    </div>
+      <h1 align="center">
+          <a href="https://git.io/typing-svg">
+          <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=blue&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I+am+tomhitu+%F0%9F%98%8A" alt="Typing SVG" /></a>
+      </h1>
+      
+      <div id="aboutme" style="display: flex; align-items: flex-start; gap: 15px;">
+          <img alt="GIF" align="right" src="https://media.giphy.com/media/WrNWPknO6rajK4Yx7n/giphy.gif" width="250px" height="250px" />
+          <div style="flex: 1;">
+              <h3 style="font-size: 28px; font-weight: bold;">About Lynn:</h3>
+              <ul style="list-style-type: none; padding-left: 0;">
+                  <li> 🌱 I’m currently learning CNN, RL, LSTM and so on </li>
+                  <li> 💬 Ask me about Photograph, and travel to Europe :) </li>
+                  <li> ⚡ INTJ </li>
+              </ul>
+          </div>
+      </div>
     
         <div class="markdown-heading" dir="auto">
             <h2 class="heading-element" dir="auto">📫 Contact me via:</h2>
         </div>
+        
         <div id="contact-block" style="font-size: 18px;">
             <div id="badges" align="left">
                 <a href="https://www.linkedin.com/in/yuqin-xia-65a945251/">
@@ -42,9 +43,11 @@ Here are some ideas to get you started:
                 </a>
             </div> 
         </div>
+        
         <div class="markdown-heading" dir="auto">
             <h2 class="heading-element" dir="auto">GitHub Stats 📊</h2>
         </div>
+        
         <p align="center" dir="auto">
             <a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api?username=tomhitu&show_icons=true&theme=dark&hide_rank=true">
                 <img src="https://github-readme-stats.vercel.app/api?username=tomhitu&show_icons=true&theme=dark&hide_rank=true" style="max-width: 100%;">
@@ -53,5 +56,6 @@ Here are some ideas to get you started:
                 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomhitu&layout=compact&theme=dark" style="max-width: 100%;">
             </a>
         </p>
+        
     </div>
 </div>
