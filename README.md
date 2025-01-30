@@ -12,6 +12,23 @@ Here are some ideas to get you started:
 
 <div>
   <div>
+    
+    <h1 align="center">
+        <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=blue&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I+am+tomhitu+%F0%9F%98%8A" alt="Typing SVG" /></a>
+    </h1>
+    <div id="aboutme" style="display: flex; align-items: flex-start; gap: 15px;">
+        <img alt="GIF" align="right" src="https://media.giphy.com/media/WrNWPknO6rajK4Yx7n/giphy.gif" width="250px" height="250px" />
+        <div style="flex: 1;">
+            <h3 style="font-size: 28px; font-weight: bold;">About Lynn:</h3>
+            <ul style="list-style-type: none; padding-left: 0;">
+                <li> 🌱 I’m currently learning CNN, RL, LSTM and so on </li>
+                <li> 💬 Ask me about Photograph, and travel to Europe :) </li>
+                <li> ⚡ INTJ </li>
+            </ul>
+        </div>
+    </div>
+    
         <div class="markdown-heading" dir="auto">
             <h2 class="heading-element" dir="auto">📫 Contact me via:</h2>
         </div>
