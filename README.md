@@ -21,7 +21,7 @@ Here are some ideas to get you started:
           <div style="flex: 1;">
               <h3 style="font-size: 28px; font-weight: bold;">About me:</h3>
               <ul style="list-style-type: none; padding-left: 0;">
-                  <li> 🌱 I’m currently learning CNN, RL, LSTM and so on </li>
+                  <li> 🌱 I’m currently learning Flow, RL, LSTM and so on </li>
                   <li> 💬 Ask me about Photograph, and travel to Europe :) </li>
                   <li> ⚡ INTJ </li>
               </ul>
